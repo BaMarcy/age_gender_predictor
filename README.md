@@ -4,7 +4,7 @@
 
 ![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter) 
 
-[**💾 DATASET**](https://github.com/joojs/fairface) **|** [**💾 ORIGINAL IMPLEMENTATION**](https://github.com/dchen236/FairFace) **|** [**🔥 PyTorch**](https://pytorch.org/get-started/locally/)**|** [**👁 CNN**]() **|** [**💪🏽 CPU/GPU**]() 
+[**💾 DATASET**](https://github.com/joojs/fairface) **|** [**⚙️ ORIGINAL IMPLEMENTATION**](https://github.com/dchen236/FairFace) **|** [**🔥 PyTorch**](https://pytorch.org/get-started/locally/)**|** [**👁 CNN**]() **|** [**💪🏽 CPU/GPU**]() 
 
 ### Description
 ...
@@ -27,10 +27,6 @@
 ```html
     pip install -r requirements.txt
 ```
----
-### References
-...
-
 ---
 ### iOS App
 
