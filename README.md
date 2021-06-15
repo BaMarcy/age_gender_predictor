@@ -1,12 +1,10 @@
  ## Age👶👴 and Gender♀️♂️ Estimation with Transfer and Multi-Task Learning
 
 [**💾 DATASET**](https://github.com/joojs/fairface) **|** [**💡 ORIGINAL IMPLEMENTATION**](https://github.com/dchen236/FairFace) **|** [**💻 Jupyter Notebook**](https://jupyter.org/install) **|** [**🔥 PyTorch**](https://pytorch.org/get-started/locally/) **|** **👁 CNN** **|** **💪🏽 CPU/GPU** **|**  [**🔗 LinkedIn**](https://www.linkedin.com/in/marcellbalogh)
-
-![Project Image](project-image-url)
-> caption Implementing age estimation and gender classification.
-
 #### 🔍 Description
 ...
+![Project Image](project-image-url)
+> caption Implementing age estimation and gender classification.
 ---
 #### ☑️ Prerequisites
 - PyTorch
