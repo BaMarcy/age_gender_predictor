@@ -18,6 +18,9 @@
 
 #### ⚙️ Installation
 ```html
+    git clone 
+```
+```html
     pip install -r requirements.txt
 ```
 ---
