@@ -1,4 +1,4 @@
- # FAIRFACE - Age Estimation and Gender Classification with Multi-Task Learning
+ # FAIRFACE - Age and Gender Estimation with Multi-Task Learning
 
 [**💾 DATASET**](https://github.com/joojs/fairface) **|** [**⚙️ ORIGINAL IMPLEMENTATION**](https://github.com/dchen236/FairFace) **|** [**🔥 PyTorch**](https://pytorch.org/get-started/locally/) **|** **👁 CNN** **|** **💪🏽 CPU/GPU**
 
