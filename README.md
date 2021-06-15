@@ -36,7 +36,7 @@
 ---
 #### 📉 Tensorboard
 ---
-#### 🗹 TODO
+#### ☑️ TODO
 - [ ] Vgg16
 - [ ] ResNet34
 - [ ] Perception_v3
