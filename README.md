@@ -33,3 +33,12 @@
 ---
 #### 📉 Tensorboard
 ---
+#### 🗹 TODO
+- [ ] Vgg16
+- [ ] ResNet34
+- [ ] Perception_v3
+- [ ] Data Augmentation
+- [ ] ONNAX
+- [ ] Mobile
+- [ ] PyPI
+---
