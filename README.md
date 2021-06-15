@@ -1,10 +1,10 @@
  # FAIRFACE - Age Estimation and Gender Classification with Multi-Task Learning
-[![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 ![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter) 
- 
 
+[**💾 DATASET**](https://github.com/joojs/fairface) [**👁 CNN**](https://arxiv.org/abs/1409.1556) [**💪🏽 CPU/GPU**]() 
 
 ### Description
 ...
