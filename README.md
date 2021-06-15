@@ -18,7 +18,7 @@
 
 #### ⚙️ Installation
 ```html
-    git clone 
+    git clone https://github.com/BaMarcy/age_gender_predictor
 ```
 ```html
     pip install -r requirements.txt
