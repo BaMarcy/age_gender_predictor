@@ -43,5 +43,6 @@
 - [ ] Data Augmentation
 - [ ] ONNAX
 - [ ] Mobile
+- [ ] Docker
 - [ ] PyPI
 ---
