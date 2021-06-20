@@ -19,24 +19,24 @@
 #### 🛠️ Train
 ##### ⚙️ Installation
 ```html
-    git clone https://github.com/BaMarcy/age_gender_predictor
+   1. git clone https://github.com/BaMarcy/age_gender_predictor
 ```
 ```html
-    pip install -r requirements.txt
+   2. pip install -r requirements.txt
 ```
 ##### ⚙️ Run
 ```html
-    jupyter notebook
+   3. jupyter notebook
 ```
 ---
 #### 💊 Predict
 ##### ⚙️ Installation
 ```html
-    pip install age_gender_predictor
+   1. pip install age_gender_predictor
 ```
 ##### ⚙️ Run
 ```html
-    python predict.py
+   2. python predict.py
 ```
 ---
 #### 📉 Tensorboard
@@ -44,7 +44,6 @@
 #### ☑️ TODO
 - [x] Vgg16
 - [ ] ResNet34
-- [ ] Data Augmentation
 - [ ] Docker
 - [ ] PyPI
 ---
