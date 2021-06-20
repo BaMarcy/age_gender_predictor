@@ -15,21 +15,26 @@
 - Numpy
 - Matplotlib
 - Torchsummary
-
-#### ⚙️ Installation
+---
+#### 🛠️ Train
+##### ⚙️ Installation
 ```html
     git clone https://github.com/BaMarcy/age_gender_predictor
 ```
 ```html
     pip install -r requirements.txt
 ```
----
-#### 🛠️ Train
+##### ⚙️ Run
 ```html
     jupyter notebook
 ```
 ---
 #### 💊 Predict
+##### ⚙️ Installation
+```html
+    pip install age_gender_predictor
+```
+##### ⚙️ Run
 ```html
     python predict.py
 ```
