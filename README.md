@@ -34,6 +34,8 @@ Epoch | 1
 Batch Size | 32
 Learning Rate | 0.0001
 
+The available models can be dowloaded from the following links:
+
 CNN Model | Test Accuracy | Inference
 | :--- | ---: | :---:
 Vgg16  | Gender: 82% - Age: 44.5% | [vgg16.pt](inferences/vgg16.pt)
