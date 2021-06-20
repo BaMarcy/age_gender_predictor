@@ -31,7 +31,7 @@ The available models were trained with the following hyperparameters:
 - Batch Size --> 32
 - Learning Rate --> 0.0001
 
-CNN Model | Test Acc | Inference
+CNN Model | Test Accuracy | Inference
 | :--- | ---: | :---:
 Vgg16  | Gender: 82% - Age: 44.5% | [vgg16.pt](inferences/vgg16.pt)
 ResNet34  | Gender: % - Age: %| [resnet34.pt](inferences/resnet34.pt)
