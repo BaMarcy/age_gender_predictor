@@ -26,6 +26,10 @@
 ```
 ---
 #### 💊 Predict
+CNN Model | Test Acc | Inference
+| :--- | ---: | :---:
+Vgg16  | Gender: 82% - Age: 44.5% | [vgg16.pt](inferences/vgg16.pt)
+ResNet34  | Gender: % - Age: %| [resnet34.pt](inferences/resnet34.pt)
 ###### ⚙️ Installation
 ```html
    pip install age_gender_predictor
@@ -39,6 +43,6 @@
 ---
 #### ☑️ TODO
 - [x] Vgg16
-- [ ] ResNet34
+- [x] ResNet34
 - [ ] PyPI
 ---
