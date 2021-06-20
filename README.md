@@ -56,4 +56,5 @@ ResNet34  | Gender: 79% - Age: 41.4% | [resnet34.pt](https://drive.google.com/fi
 #### ☑️ TODO
 - [x] Vgg16
 - [x] ResNet34
+- [ ] Streamlit
 ---
