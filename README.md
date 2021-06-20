@@ -40,7 +40,7 @@ The available models can be dowloaded from the following links:
 CNN Model | Test Accuracy | Inference
 | :--- | ---: | :---:
 Vgg16  | Gender: 82% - Age: 44.5% | [vgg16.pt](inferences/vgg16.pt)
-ResNet34  | Gender: 79% - Age: 41.4 %| [resnet34.pt](inferences/resnet34.pt)
+ResNet34  | Gender: 79% - Age: 41.4% | [resnet34.pt](inferences/resnet34.pt)
 
 ###### ⚙️ Run
 ```html
