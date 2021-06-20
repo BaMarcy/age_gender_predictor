@@ -2,6 +2,7 @@
  
 [**💾 DATASET**](https://github.com/joojs/fairface) **|** [**💡 ORIGINAL IMPLEMENTATION**](https://github.com/dchen236/FairFace) **|** [**💻 Jupyter Notebook**](https://jupyter.org/install) **|** [**🔥 PyTorch**](https://pytorch.org/get-started/locally/) **|** **👁 CNN** **|** **💪🏽 CPU/GPU** **|**  [**🔗 LinkedIn**](https://www.linkedin.com/in/marcellbalogh) 👈🏽
 #### 🔍 Description
+Multi-task learning is a subfield of Deep Learning in which multiple learning tasks (e.g. age and gender) are solved at the same time, while exploiting commonalities and differences across tasks. 
 ...
 ![Project Image](project-image-url)
 > caption Implementing age estimation and gender classification.
