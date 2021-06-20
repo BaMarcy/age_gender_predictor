@@ -7,36 +7,32 @@
 > caption Implementing age estimation and gender classification.
 ---
 #### ☑️ Prerequisites
-- PyTorch
-- Opencv
-- Pandas
-- Tensorboard
-- Torchvision
-- Numpy
-- Matplotlib
-- Torchsummary
+- Python3
+- See [requirements.txt](requirements.txt) for required packages
+- Windows, Linux, MacOS
 ---
 #### 🛠️ Train
 ###### ⚙️ Installation
+
 ```html
-   1. git clone https://github.com/BaMarcy/age_gender_predictor
+   git clone https://github.com/BaMarcy/age_gender_predictor
 ```
 ```html
-   2. pip install -r requirements.txt
+   pip install -r requirements.txt
 ```
 ###### ⚙️ Run
 ```html
-   3. jupyter notebook
+   jupyter notebook
 ```
 ---
 #### 💊 Predict
 ###### ⚙️ Installation
 ```html
-   1. pip install age_gender_predictor
+   pip install age_gender_predictor
 ```
 ###### ⚙️ Run
 ```html
-   2. python predict.py
+   python predict.py
 ```
 ---
 #### 📉 Tensorboard
