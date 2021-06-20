@@ -2,7 +2,7 @@
  
 [**💾 DATASET**](https://github.com/joojs/fairface) **|** [**💡 ORIGINAL IMPLEMENTATION**](https://github.com/dchen236/FairFace) **|** [**💻 Jupyter Notebook**](https://jupyter.org/install) **|** [**🔥 PyTorch**](https://pytorch.org/get-started/locally/) **|** **👁 CNN** **|** **💪🏽 CPU/GPU** **|**  [**🔗 LinkedIn**](https://www.linkedin.com/in/marcellbalogh) 👈🏽
 #### 🔍 Description
-Multi-task learning is a subfield of Deep Learning in which multiple learning tasks (e.g. age and gender) are solved at the same time, while exploiting commonalities and differences across tasks. Transfer learning, on the otherhand, is the reuse of pre-trained models (e.g. VGG16 and RESNET34) on a new problem. It's a very popular technique because it can train ANNs faster with comparatively little data. This project implements these two powerful techniques in PyTorch on FAIRFACE dataset to classify gender and age within a single model.
+Multi-task learning is a subfield of Deep Learning in which multiple learning tasks (e.g. age and gender classification) are solved at the same time, while exploiting commonalities and differences across tasks. Transfer learning, on the otherhand, is the reuse of pre-trained models (e.g. VGG16 and RESNET34) on a new problem. It's a very popular technique because it can train ANNs faster with comparatively little data. This project implements these two powerful techniques in PyTorch on FAIRFACE dataset to classify gender and age within a single model.
 
 ![Project Image](project-image-url)
 > caption Implementing age estimation and gender classification.
