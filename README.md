@@ -44,6 +44,5 @@
 #### ☑️ TODO
 - [x] Vgg16
 - [ ] ResNet34
-- [ ] Docker
 - [ ] PyPI
 ---
