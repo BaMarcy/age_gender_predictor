@@ -29,6 +29,10 @@
 ```
 ---
 #### 💊 Predict
+###### ⚙️ Run
+```html
+   jupyter notebook test.ipynb
+```
 The available models were trained with the following hyperparameters:
 
 Hyperparameter  | Value
@@ -44,10 +48,6 @@ CNN Model | Test Accuracy | Inference
 Vgg16  | Gender: 82% - Age: 44.5% | [vgg16.pt](https://drive.google.com/file/d/10L8BJqydyWBBmOI0T8QYedVYNnkCjAFP/view?usp=sharing)
 ResNet34  | Gender: 79% - Age: 41.4% | [resnet34.pt](https://drive.google.com/file/d/16U9HuW3ysy-EmS5xCnaX9MMHglcASjmK/view?usp=sharing)
 
-###### ⚙️ Run
-```html
-   jupyter notebook test.ipynb
-```
 ---
 #### 📉 Tensorboard
 
