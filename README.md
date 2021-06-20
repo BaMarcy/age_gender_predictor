@@ -23,7 +23,7 @@
 #### 🛠️ Train
 ###### ⚙️ Run
 ```html
-   jupyter notebook
+   jupyter notebook train.ipynb
 ```
 ---
 #### 💊 Predict
@@ -44,7 +44,7 @@ ResNet34  | Gender: 79% - Age: 41.4% | [resnet34.pt](inferences/resnet34.pt)
 
 ###### ⚙️ Run
 ```html
-   python predict.py
+   jupyter notebook test.ipynb
 ```
 ---
 #### 📉 Tensorboard
