@@ -17,24 +17,24 @@
 - Torchsummary
 ---
 #### 🛠️ Train
-##### ⚙️ Installation
+###### ⚙️ Installation
 ```html
    1. git clone https://github.com/BaMarcy/age_gender_predictor
 ```
 ```html
    2. pip install -r requirements.txt
 ```
-##### ⚙️ Run
+###### ⚙️ Run
 ```html
    3. jupyter notebook
 ```
 ---
 #### 💊 Predict
-##### ⚙️ Installation
+###### ⚙️ Installation
 ```html
    1. pip install age_gender_predictor
 ```
-##### ⚙️ Run
+###### ⚙️ Run
 ```html
    2. python predict.py
 ```
