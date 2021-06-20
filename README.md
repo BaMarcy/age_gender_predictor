@@ -49,7 +49,7 @@ ResNet34  | Gender: 79% - Age: 41.4% | [resnet34.pt](inferences/resnet34.pt)
 ---
 #### 📉 Tensorboard
 
-![Project Image](tensorboard.png)
+![](tensorboard.png)
 ---
 #### ☑️ TODO
 - [x] Vgg16
