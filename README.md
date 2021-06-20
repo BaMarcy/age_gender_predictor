@@ -26,6 +26,10 @@
 ```
 ---
 #### 💊 Predict
+The available models trained with the following hyperparameters:
+- Epoch 1
+- Batch 32
+- lr 0.0001
 CNN Model | Test Acc | Inference
 | :--- | ---: | :---:
 Vgg16  | Gender: 82% - Age: 44.5% | [vgg16.pt](inferences/vgg16.pt)
