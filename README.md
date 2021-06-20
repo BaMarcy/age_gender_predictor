@@ -52,5 +52,4 @@ ResNet34  | Gender: % - Age: %| [resnet34.pt](inferences/resnet34.pt)
 #### ☑️ TODO
 - [x] Vgg16
 - [x] ResNet34
-- [ ] PyPI
 ---
