@@ -10,16 +10,16 @@
 - Python3
 - See [requirements.txt](requirements.txt) for required packages
 - Windows, Linux, MacOS
----
-#### 🛠️ Train
-###### ⚙️ Installation
 
+###### ⚙️ Installation
 ```html
    git clone https://github.com/BaMarcy/age_gender_predictor
 ```
 ```html
    pip install -r requirements.txt
 ```
+---
+#### 🛠️ Train
 ###### ⚙️ Run
 ```html
    jupyter notebook
