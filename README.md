@@ -37,7 +37,7 @@ The available models were trained with the following hyperparameters:
 
 Hyperparameter  | Value
 ------------- | -------------
-Epoch | 1
+No. of Epochs | 1
 Batch Size | 32
 Learning Rate | 0.0001
 
