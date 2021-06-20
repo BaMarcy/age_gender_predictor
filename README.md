@@ -37,12 +37,9 @@
 #### 📉 Tensorboard
 ---
 #### ☑️ TODO
-- [ ] Vgg16
+- [x] Vgg16
 - [ ] ResNet34
-- [ ] Perception_v3
 - [ ] Data Augmentation
-- [ ] ONNAX
-- [ ] Mobile
 - [ ] Docker
 - [ ] PyPI
 ---
