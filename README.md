@@ -22,32 +22,28 @@
    pip install -r requirements.txt
 ```
 ---
-#### 🛠️ Train
+#### 🛠️ Train + 💊 Predict
 ###### ⚙️ Run
 ```html
    jupyter notebook train.ipynb
 ```
 ---
-#### 💊 Predict
-###### ⚙️ Run
-```html
-   jupyter notebook test.ipynb
-```
+#### 
 The available models were trained with the following hyperparameters:
 
 Hyperparameter  | Value
 ------------- | -------------
-No. of Epochs | 1
+No. of Epochs | 10
 Batch Size | 32
 Learning Rate | 0.0001
 
 The available models can be dowloaded from the following links:
 
-CNN Model | Test Accuracy | Inference
+CNN Model | Test Accuracy | Inference (PyTorch) | Inference (ONNX)
 | :--- | ---: | :---:
-Vgg16  | Gender: 97% - Age: 82% | [vgg16.pt](https://drive.google.com/file/d/10L8BJqydyWBBmOI0T8QYedVYNnkCjAFP/view?usp=sharing)
-ResNet18  | Gender: 98% - Age: 92% | [resnet18.pt](https://drive.google.com/file/d/10L8BJqydyWBBmOI0T8QYedVYNnkCjAFP/view?usp=sharing)
-ResNet34  | Gender: 99% - Age: 89% | [resnet34.pt](https://drive.google.com/file/d/16U9HuW3ysy-EmS5xCnaX9MMHglcASjmK/view?usp=sharing)
+Vgg16  | Gender: 97% - Age: 82% | [vgg16.pt](https://drive.google.com/file/d/10L8BJqydyWBBmOI0T8QYedVYNnkCjAFP/view?usp=sharing) |
+ResNet18  | Gender: 98% - Age: 92% | [resnet18.pt](https://drive.google.com/file/d/10L8BJqydyWBBmOI0T8QYedVYNnkCjAFP/view?usp=sharing)|
+ResNet34  | Gender: 99% - Age: 89% | [resnet34.pt](https://drive.google.com/file/d/16U9HuW3ysy-EmS5xCnaX9MMHglcASjmK/view?usp=sharing)|
 
 ---
 #### 📉 Tensorboard
@@ -58,5 +54,6 @@ ResNet34  | Gender: 99% - Age: 89% | [resnet34.pt](https://drive.google.com/file
 - [x] Vgg16
 - [x] ResNet18
 - [x] ResNet34
+- [ ] ONNX
 - [ ] Streamlit
 ---
