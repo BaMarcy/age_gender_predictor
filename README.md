@@ -39,7 +39,7 @@ Learning Rate | 0.0001
 
 The available models can be dowloaded from the following links:
 
-CNN Model | Test Accuracy | Inference (PyTorch) | Inference (ONNX)
+CNN Model | Accuracy | Inference (PyTorch) | Inference (ONNX)
 | :--- | ---: | ---: | :---:
 Vgg16  | Gender: 97% - Age: 82% | [vgg16.pt](https://drive.google.com/file/d/10L8BJqydyWBBmOI0T8QYedVYNnkCjAFP/view?usp=sharing) | -
 ResNet18  | Gender: 98% - Age: 92% | [resnet18.pt](https://drive.google.com/file/d/10L8BJqydyWBBmOI0T8QYedVYNnkCjAFP/view?usp=sharing)| -
