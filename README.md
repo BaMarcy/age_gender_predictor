@@ -54,6 +54,7 @@ ResNet34  | Gender: 99% - Age: 89% | [resnet34.pt](https://drive.google.com/file
 - [x] Vgg16
 - [x] ResNet18
 - [x] ResNet34
+- [ ] Ethnicity
 - [ ] ONNX
 - [ ] Streamlit
 ---
