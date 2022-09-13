@@ -7,4 +7,6 @@ torch
 torchvision
 torchaudio
 torchsummary
-tensorboard
+onnx
+onnxruntime-gpu
+tensorboard==1.15
