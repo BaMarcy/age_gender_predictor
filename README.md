@@ -1,4 +1,4 @@
- ## Age👶👴 and Gender♀️♂️ Estimation with Transfer and Multi-Task Learning
+ ## Age👶👴 & Gender♀️♂️ & Ethnicity Estimation with Transfer and Multi-Task Learning
  
 [**💾 DATASET**](https://github.com/joojs/fairface) **|** [**💡 ORIGINAL IMPLEMENTATION**](https://github.com/dchen236/FairFace) **|** [**💻 Jupyter Notebook**](https://jupyter.org/install) **|** [**🔥 PyTorch**](https://pytorch.org/get-started/locally/) **|** **👁 CNN** **|** **💪🏽 CPU/GPU** **|**  [**🔗 LinkedIn**](https://www.linkedin.com/in/marcellbalogh) 👈🏽 
 
@@ -43,9 +43,9 @@ The available models can be dowloaded from the following links:
 
 Model | Accuracy | Inference (PyTorch) | Inference (ONNX)
 | :--- | ---: | ---: | :---:
-Vgg16  | Gender: 98% - Age: 89% - Race: 95% | [vgg16.pt](https://drive.google.com/file/d/1wnBjWxKhj0gAPOci7T-vPL9Y6UIhKct2/view?usp=sharing) | [vgg16.pt](https://drive.google.com/file/d/1wnBjWxKhj0gAPOci7T-vPL9Y6UIhKct2/view?usp=sharing) -
-ResNet18  | Gender: 98% - Age: 89% - Race: 95% | [resnet18.pt](https://drive.google.com/file/d/1Of1QdPEFhom7w7eugqqcwoOR3BIOj31M/view?usp=sharing)| [vgg16.pt](https://drive.google.com/file/d/1wnBjWxKhj0gAPOci7T-vPL9Y6UIhKct2/view?usp=sharing)| -
-ResNet34  | Gender: 98% - Age: 90% - Race: 95% | [resnet34.pt](https://drive.google.com/file/d/1vOz_Ey-dpQIyoG5yCBdtuwG2Rz-ursm6/view?usp=sharing)| [vgg16.pt](https://drive.google.com/file/d/1wnBjWxKhj0gAPOci7T-vPL9Y6UIhKct2/view?usp=sharing)| -
+Vgg16  | Gender: 98% - Age: 89% - Race: 95% | [vgg16.pt](https://drive.google.com/file/d/1wnBjWxKhj0gAPOci7T-vPL9Y6UIhKct2/view?usp=sharing) | [vgg16.onnx](https://drive.google.com/file/d/1wnBjWxKhj0gAPOci7T-vPL9Y6UIhKct2/view?usp=sharing) | -
+ResNet18  | Gender: 98% - Age: 89% - Race: 95% | [resnet18.pt](https://drive.google.com/file/d/1Of1QdPEFhom7w7eugqqcwoOR3BIOj31M/view?usp=sharing)| [resnet18.onnx](https://drive.google.com/file/d/1wnBjWxKhj0gAPOci7T-vPL9Y6UIhKct2/view?usp=sharing)| -
+ResNet34  | Gender: 98% - Age: 90% - Race: 95% | [resnet34.pt](https://drive.google.com/file/d/1vOz_Ey-dpQIyoG5yCBdtuwG2Rz-ursm6/view?usp=sharing)| [resnet34.onnx](https://drive.google.com/file/d/1wnBjWxKhj0gAPOci7T-vPL9Y6UIhKct2/view?usp=sharing)| -
 
 ---
 #### 📉 Tensorboard
