@@ -43,9 +43,9 @@ The available models can be dowloaded from the following links:
 
 Model | Accuracy | Inference (PyTorch) | Inference (ONNX)
 | :--- | ---: | ---: | :---:
-Vgg16  | Gender: 98% - Age: 89% - Race: 95% | [vgg16.pt](https://drive.google.com/file/d/1nox5x0vQtzjrN59Dq4LAWPhRKpuLvXC-/view?usp=sharing) | [vgg16.onnx](https://drive.google.com/file/d/15mnxVvPdDv68-VYhi6Mc8bfEP4Mdcoug/view?usp=sharing) | -
+Vgg16  | Gender: 98% - Age: 89% - Race: 95% | [vgg16.pt](https://drive.google.com/file/d/1-aROCmybQL30Dr6Jm6hZdj7nESSZDHva/view?usp=sharing) | [vgg16.onnx](https://drive.google.com/file/d/15mnxVvPdDv68-VYhi6Mc8bfEP4Mdcoug/view?usp=sharing) | -
 ResNet18  | Gender: 98% - Age: 89% - Race: 95% | [resnet18.pt](https://drive.google.com/file/d/1tRkdiIIO5GDpoVF54TEIx1ZPM9GHrDf0/view?usp=sharing)| [resnet18.onnx](https://drive.google.com/file/d/1aB9uiu8zxBz5Y_HwF3rHdZoiyen54MNT/view?usp=sharing)| -
-ResNet34  | Gender: 98% - Age: 90% - Race: 95% | [https://drive.google.com/file/d/1nox5x0vQtzjrN59Dq4LAWPhRKpuLvXC-/view?usp=sharing)| [resnet34.onnx](https://drive.google.com/file/d/1RoMWzDBR6ADVxarzAUr7Rin6yJHX2Q9J/view?usp=sharing)| -
+ResNet34  | Gender: 98% - Age: 90% - Race: 95% | [resnet34.pt] (https://drive.google.com/file/d/1nox5x0vQtzjrN59Dq4LAWPhRKpuLvXC-/view?usp=sharing)| [resnet34.onnx](https://drive.google.com/file/d/1RoMWzDBR6ADVxarzAUr7Rin6yJHX2Q9J/view?usp=sharing)| -
 
 ---
 #### 📉 Tensorboard
