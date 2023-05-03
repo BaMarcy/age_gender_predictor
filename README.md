@@ -41,7 +41,7 @@ Learning Rate | 0.0001
 
 The available models can be dowloaded from the following links:
 
-Model | Accuracy | Inference (PyTorch) | Inference (ONNX) | Speed (ONNX)
+Model | Accuracy | Inference (PyTorch) | Inference (ONNX) | Speed (ONNX CPU)
 | :--- | ---: | ---: | ---: | :---: 
 Vgg16  | Gender: 98% - Age: 89% - Race: 95% | [vgg16.pt](https://drive.google.com/file/d/1-aROCmybQL30Dr6Jm6hZdj7nESSZDHva/view?usp=sharing) (130 MB) | [vgg16.onnx](https://drive.google.com/file/d/15mnxVvPdDv68-VYhi6Mc8bfEP4Mdcoug/view?usp=sharing) (130 MB) | 60 ms | -
 ResNet18  | Gender: 98% - Age: 89% - Race: 95% | [resnet18.pt](https://drive.google.com/file/d/1tRkdiIIO5GDpoVF54TEIx1ZPM9GHrDf0/view?usp=sharing) (45 MB) | [resnet18.onnx](https://drive.google.com/file/d/1aB9uiu8zxBz5Y_HwF3rHdZoiyen54MNT/view?usp=sharing) (45 MB) | 10 ms | -
