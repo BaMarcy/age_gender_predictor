@@ -43,9 +43,9 @@ The available models can be dowloaded from the following links:
 
 Model | Accuracy | Inference (PyTorch) | Inference (ONNX) | Speed (ONNX)
 | :--- | ---: | ---: | ---: | :---: 
-Vgg16  | Gender: 98% - Age: 89% - Race: 95% | [vgg16.pt](https://drive.google.com/file/d/1-aROCmybQL30Dr6Jm6hZdj7nESSZDHva/view?usp=sharing) (130MB) | [vgg16.onnx](https://drive.google.com/file/d/15mnxVvPdDv68-VYhi6Mc8bfEP4Mdcoug/view?usp=sharing) (130MB) | 60 ms | -
-ResNet18  | Gender: 98% - Age: 89% - Race: 95% | [resnet18.pt](https://drive.google.com/file/d/1tRkdiIIO5GDpoVF54TEIx1ZPM9GHrDf0/view?usp=sharing) (45MB) | [resnet18.onnx](https://drive.google.com/file/d/1aB9uiu8zxBz5Y_HwF3rHdZoiyen54MNT/view?usp=sharing) (45MB) | 10 ms | -
-ResNet34  | Gender: 98% - Age: 90% - Race: 95% | [resnet34.pt](https://drive.google.com/file/d/1nox5x0vQtzjrN59Dq4LAWPhRKpuLvXC-/view?usp=sharing) (83MB) | [resnet34.onnx](https://drive.google.com/file/d/1RoMWzDBR6ADVxarzAUr7Rin6yJHX2Q9J/view?usp=sharing) (83MB) | 16 ms | -
+Vgg16  | Gender: 98% - Age: 89% - Race: 95% | [vgg16.pt](https://drive.google.com/file/d/1-aROCmybQL30Dr6Jm6hZdj7nESSZDHva/view?usp=sharing) (130MB) | [vgg16.onnx](https://drive.google.com/file/d/15mnxVvPdDv68-VYhi6Mc8bfEP4Mdcoug/view?usp=sharing) (130 mb) | 60 ms | -
+ResNet18  | Gender: 98% - Age: 89% - Race: 95% | [resnet18.pt](https://drive.google.com/file/d/1tRkdiIIO5GDpoVF54TEIx1ZPM9GHrDf0/view?usp=sharing) (45MB) | [resnet18.onnx](https://drive.google.com/file/d/1aB9uiu8zxBz5Y_HwF3rHdZoiyen54MNT/view?usp=sharing) (45 mb) | 10 ms | -
+ResNet34  | Gender: 98% - Age: 90% - Race: 95% | [resnet34.pt](https://drive.google.com/file/d/1nox5x0vQtzjrN59Dq4LAWPhRKpuLvXC-/view?usp=sharing) (83MB) | [resnet34.onnx](https://drive.google.com/file/d/1RoMWzDBR6ADVxarzAUr7Rin6yJHX2Q9J/view?usp=sharing) (83 mb) | 16 ms | -
 
 ---
 #### 📉 Tensorboard
